@@ -1,0 +1,18 @@
+﻿---
+BasedOnStyle: Google
+AccessModifierOffset: -2
+AlignConsecutiveMacros: true
+AlignConsecutiveAssignments: true
+AllowAllArgumentsOnNextLine: false
+AllowAllParametersOfDeclarationOnNextLine: false
+AllowShortBlocksOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+AlwaysBreakBeforeMultilineStrings: false
+BinPackArguments: false
+BinPackParameters: false
+ColumnLimit: 120
+DerivePointerAlignment: false
+PointerAlignment: Right
+TabWidth: 2
+...
